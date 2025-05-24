@@ -1,0 +1,5 @@
+DOMAIN,adttrackingprd.hwwt8.com
+DOMAIN,al-log.d.meituan.net
+DOMAIN,maplocatesdksnapshot.d.meituan.net
+DOMAIN,metrics-picture.d.meituan.net
+AND,((OR,((DOMAIN-KEYWORD,biliapi), (DOMAIN-KEYWORD,bilibili))), (OR,((DOMAIN-KEYWORD,stun), (DOMAIN-KEYWORD,p2p), (DOMAIN-KEYWORD,pcdn), (DOMAIN-KEYWORD,-live-tracker-), (DOMAIN-KEYWORD,player-tracker))))
